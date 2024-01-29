@@ -12,7 +12,8 @@ ___
 
 Watch a demo of the Academic Performance & Research Trends dashboard below:
 
-[![Watch the video](https://cdnsecakmi.kaltura.com/p/1329972/sp/132997200/thumbnail/entry_id/1_27fbvygn/version/100011/width/970/height/579)](https://mediaspace.illinois.edu/media/t/1_27fbvygn)
+[![Watch the video](https://i3.ytimg.com/vi/_rV-3tzKXFE/maxresdefault.jpg)](https://youtu.be/_rV-3tzKXFE)
+
 ___
 
 ## Installation
@@ -251,7 +252,7 @@ The development of this Dash application was a collaborative effort of a team of
 
 ### Team Members and Tasks
 
-**Lakshmi Susheela Amrutha Pydeti – lpydeti2@illinois.edu**:
+**Amrutha Pydeti**:
 
   - Developed three widgets: University Rankings, New Publications, and Collaboration Viewer.
   - Added comments to the code for readability.
@@ -259,7 +260,7 @@ The development of this Dash application was a collaborative effort of a team of
   - Conducted peer review, testing, and quality assurance.
   - Contributed to the documentation.
 
-**Hermann Rosch – hrosch2@illinois.edu**:
+**Hermann Rosch**:
 
 - Developed three widgets: Yearly Rankings, Top Keywords, and Keyword Trends.
 - Created CSS stylesheets and applied inline styles to various bootstrap components.
